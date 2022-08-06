@@ -5,4 +5,9 @@
 - deployment
 - collaboration
 - Testing
-` Integration
+- Integration
+
+## Dev Stacks
+- Javascript
+- HTML
+- CSS
